@@ -1,0 +1,25 @@
+.l{
+
+    text-decoration: none;
+
+    color: blue;
+
+    cursor: pointer;
+
+}
+
+a:visited{
+
+    color: blueviolet;
+
+    text-decoration: underline;
+    
+
+}
+
+a:hover{
+
+    color: red;
+
+    text-decoration: underline;
+}
